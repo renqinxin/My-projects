@@ -1,0 +1,3 @@
+This is a project in Python. It completes the function of sharing files in three virtual machines. 
+The files' size can be 1GB, or a file folder. 
+This program implements the function of comression, breakpoint resume, encryption,partial updating
